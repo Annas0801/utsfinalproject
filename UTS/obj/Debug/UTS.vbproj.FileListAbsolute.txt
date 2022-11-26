@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\bin\Debug\UTS.xml
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.MenuUtama.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.xml
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\UTS\UTS\obj\Debug\UTS.Form2.resources
